@@ -1,0 +1,1 @@
+Final merged Spring Boot app with Phase2 & Phase3 logic shared across the same accounts. Originals are saved in src/main/java/com/onlinebanking/originals/. Run: mvn clean package && mvn spring-boot:run. Open http://localhost:8080. Demo credentials: user / pass.
